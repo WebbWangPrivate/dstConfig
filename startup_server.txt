@@ -1,0 +1,2 @@
+-conf_dir DoNotStarveTogether_EasyConfigCaves -console &
+-conf_dir DoNotStarveTogether_EasyConfigOverworld -console &
