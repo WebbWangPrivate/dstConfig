@@ -1,2 +1,2 @@
--conf_dir DoNotStarveTogether_EasyConfigCaves -console &
--conf_dir DoNotStarveTogether_EasyConfigOverworld -console &
+./dontstarve_dedicated_server_nullrenderer -conf_dir DoNotStarveTogether_EasyConfigCaves -console &
+./dontstarve_dedicated_server_nullrenderer -conf_dir DoNotStarveTogether_EasyConfigOverworld -console &
