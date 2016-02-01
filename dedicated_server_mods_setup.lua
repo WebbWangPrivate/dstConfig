@@ -11,10 +11,13 @@
 	--ServerModCollectionSetup("379114180")
 
 ServerModSetup("347079953")
+ServerModSetup("347360448")
+ServerModSetup("357459277")
 ServerModSetup("361994110")
 ServerModSetup("368321978")
 ServerModSetup("375850593")
 ServerModSetup("375859599")
+ServerModSetup("378160973")
 ServerModSetup("388898153")
 ServerModSetup("399799824")
 ServerModSetup("399803164")

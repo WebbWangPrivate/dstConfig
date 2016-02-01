@@ -1,9 +1,12 @@
 return {
 	["workshop-347079953"] = { enabled = true },  --"Display food values"
+	["workshop-347360448"] = { enabled = true },  --"DST Where's My Beefalo?"
+	["workshop-357459277"] = { enabled = true },  --"[DST] Wide FOV"
 	["workshop-361994110"] = { enabled = true },  --"Bee Nice"
 	["workshop-368321978"] = { enabled = true },  --"Miku Hatsune"
 	["workshop-375850593"] = { enabled = true },  --"Extra Equip Slots"
 	["workshop-375859599"] = { enabled = true },  --"Health Info"
+	["workshop-378160973"] = { enabled = true },  --"Global Positions"
 	["workshop-388898153"] = { enabled = true },  --"99 Item Stack"
 	["workshop-399799824"] = { enabled = true },  --"Tamamo(P)"
 	["workshop-399803164"] = { enabled = true },  --"Tohsaka Rin(P)"
