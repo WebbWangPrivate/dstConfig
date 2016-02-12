@@ -22,6 +22,7 @@ return {
 	["workshop-552215051"] = { enabled = true },  --"More Storage v2"
 	["workshop-578326840"] = { enabled = true },  --"Kyoko Sakura"
 	["workshop-580851939"] = { enabled = true },  --"Structures and More..."
+	["workshop-591258809"] = { enabled = true },  --"Elphelt Valentine(Guilty Gear Xrd -SIGN-)"
 }
 --By L.YUN
 --http://www.lyun.me
