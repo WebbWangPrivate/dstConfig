@@ -1,0 +1,1 @@
+steamcmd +login anonymous +app_update 343050 validate +quit
