@@ -1,0 +1,6 @@
+[00:04:54]: [Join Announcement] WebbWang
+[00:10:48]: [Leave Announcement] WebbWang
+[00:12:05]: [Join Announcement] WebbWang
+[00:18:45]: [Leave Announcement] WebbWang
+[00:23:21]: [Join Announcement] WebbWang
+[00:24:54]: [Leave Announcement] WebbWang
